@@ -8,7 +8,7 @@
 *.sln.docstates
 
 # DXA Binary Data
-BinaryData/*
+./Site/BinaryData/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

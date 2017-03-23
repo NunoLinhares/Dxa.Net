@@ -1,0 +1,23 @@
+{
+  "56": [
+    "system/include/header",
+    "system/include/footer",
+    "system/include/content-tools",
+    "system/include/left-navigation"
+  ],
+  "142": [
+    "system/include/header",
+    "system/include/footer",
+    "system/include/content-tools"
+  ],
+  "187": [
+    "system/include/header",
+    "system/include/footer"
+  ],
+  "100": [],
+  "199": [],
+  "183": [
+    "system/include/header",
+    "system/include/footer"
+  ]
+}
